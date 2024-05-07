@@ -1,4 +1,6 @@
 Portfolio Website for Full Stack Engineering
+![image](https://github.com/SriHarsha339/portfolioweb/assets/129876093/d198b388-fda8-4933-bce5-d8b907eff311)
+
 
 Hello, I'm Gowtham, a passionate full-stack engineering student eager to showcase my skills and projects. This portfolio website serves as a platform to exhibit my journey in full-stack development, from frontend design to backend architecture.
 
@@ -13,3 +15,6 @@ This website isn't just a collection of projects; it's a testament to my dedicat
 
 Contributions:
 Feedback and contributions are warmly welcomed! Feel free to fork this repository, suggest enhancements, or report any issues you encounter. Let's collaborate and enhance this portfolio together, reflecting the ever-evolving landscape of full-stack engineering!
+
+![image](https://github.com/SriHarsha339/portfolioweb/assets/129876093/ae5fffae-3fe0-428b-86e6-dd480e41936b)
+![image](https://github.com/SriHarsha339/portfolioweb/assets/129876093/df06d1c3-d399-468c-a755-fd8a6382b633)
